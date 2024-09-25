@@ -1,0 +1,19 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 77ac0da..f528b64 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -6,9 +6,13 @@[m
+     <title>Document</title>Latihan Sederhana[m
+ </head>[m
+ <body>[m
+[32m+[m
+[32m+[m[32m    <header>Disini merupakan Header</header>[m
+     [m
+     <h1>PT Maju Sejahtera</h1>[m
+ [m
+     <div>lorem ipsum dolor sit amet.</div>[m
+[32m+[m
+[32m+[m[32m    <footer>disini adalah footer</footer>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
